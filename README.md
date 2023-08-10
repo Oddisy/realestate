@@ -15,6 +15,7 @@ Welcome to **Real Estate Website**! This project is a modern and user-friendly p
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
 - [License](#license)
+- - [collaborators](#collaborators)
 
 ## Features
 
@@ -58,13 +59,7 @@ To get started with the project, follow these steps:
 
 ## Technologies Used
 
-- **Frontend:** React, Redux, Tailwind CSS
-- **Backend:** Node.js, Express.js, MongoDB
-- **Authentication:** JWT (JSON Web Tokens)
-- **Real-Time Updates:** WebSockets
-- **Routing:** React Router
-- **Data Storage:** MongoDB Atlas
-- **Deployment:** Heroku
+- **Frontend:** HTML, Tailwind CSS, React Js 
 
 ## Contributing
 
@@ -88,6 +83,14 @@ Contributions are welcome! If you have an idea to enhance the website or fix a b
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## collaborators
+
+@Monifezion
+@Oddisy
+@david
 
 ---
 
